@@ -271,7 +271,6 @@ Pada program di atas, pertama-tama dibuat sebuah objek map bernama umur yang men
 
 ## Kesimpulan 
 Kesimpulan yang dapat diambil dari laporan praktikum dengan “Modul 1:Tipe Data Primitif, Tipe Data Abstrak, dan Tipe Data Koleksi” adalah bahwa praktikum ini bertujuan untuk mempelajari berbagai jenis tipe data dalam pemrograman, yaitu tipe data primitif, abstrak, dan koleksi. Tipe data primitif hanya dapat menyimpan satu nilai pada satu waktu dan tidak dapat diubah, sedangkan tipe data abstrak dan koleksi lebih kompleks dan dapat dibuat sendiri oleh programmer. Selain itu, praktikum ini juga membahas pengaplikasian tipe data yang digunakan dan penggunaan bahasa pemrograman yang telah ditentukan. Dalam praktikum ini, contoh implementasi data disajikan melalui sebuah program kalkulator sederhana menggunakan bahasa pemrograman C++. Program tersebut dapat menghitung operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
-
 <br>Lalu juga di modul membahas tentang perbedaan penggunaan di tipe data abstrak, yaitu penggunaan class dan struct yang dimana class adalah salah satu dari konsep OOP (Objek Oriented Program) yang digunakan untuk membungkus sebuah prosedur, sedangkan struct merupakah sebuah variabel yang dapat menampung berbagai tipe data yang berbeda dalam satu buah variabel.
 
 ## Referensi
