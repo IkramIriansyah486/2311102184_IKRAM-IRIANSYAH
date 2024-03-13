@@ -200,7 +200,7 @@ int main()
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+![Ikram_Output-Unguided-1](https://github.com/IkramIriansyah486/2311102184_IKRAM-IRIANSYAH/blob/main/Pertemuan-1_Modul1-Tipe%20Data/Screenshot-Output-Unguided-1.png)
 
 Program di atas memiliki tiga fungsi yaitu tambah, bagi, dan isGenap, yang masing-masing melakukan operasi penjumlahan, pembagian, dan pengecekan bilangan genap menggunakan tipe data primitif int dan double. Fungsi tambah dan bagi sama seperti pada contoh sebelumnya, sedangkan fungsi isGenap menerima satu parameter bertipe int dan mengembalikan true jika bilangan tersebut genap dan false jika tidak.
 <br>Di dalam fungsi main, program meminta pengguna memasukkan dua bilangan bulat dan dua bilangan pecahan menggunakan perintah cin. Kemudian, program memanggil ketiga fungsi tersebut dengan parameter yang sesuai berdasarkan input dari pengguna. Hasilnya disimpan pada variabel-variabel hasilTambah, hasilBagi, dan ‘apakah’, ’Genap’ masing-masing. Terakhir, program menampilkan hasilnya pada layar menggunakan perintah cout.
@@ -237,7 +237,7 @@ int main()
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+![Ikram_Output-Unguided-2](https://github.com/IkramIriansyah486/2311102184_IKRAM-IRIANSYAH/blob/main/Pertemuan-1_Modul1-Tipe%20Data/Screenshot-Output-Unguided-2.png)
 
 Pada contoh program di atas, kita mendefinisikan class Lingkaran yang memiliki variabel anggota jari_jari dan fungsi anggota setJariJari dan hitungLuas. Fungsi setJariJari digunakan untuk mengisi nilai jari-jari lingkaran, sedangkan fungsi hitungLuas digunakan untuk menghitung luas lingkaran.
 
@@ -265,7 +265,7 @@ int main()
 }
 ```
 #### Output:
-![240302_00h00m06s_screenshot](https://github.com/suxeno/Struktur-Data-Assignment/assets/111122086/6d1727a8-fb77-4ecf-81ff-5de9386686b7)
+![Ikram_Output-Unguided-3](https://github.com/IkramIriansyah486/2311102184_IKRAM-IRIANSYAH/blob/main/Pertemuan-1_Modul1-Tipe%20Data/Screenshot-Output-Unguided-3.png)
 
 Pada program di atas, pertama-tama dibuat sebuah objek map bernama umur yang menyimpan data umur berdasarkan nama. Kemudian, data umur dimasukkan ke dalam map dengan menggunakan operator ‘[]’. Akhirnya, data umur dapat diakses dengan menggunakan operator ‘[]’ juga. Perbedaan utama antara array dan map adalah bahwa array menyimpan data dalam bentuk urutan dengan indeks numerik, sedangkan map menyimpan data dalam bentuk pasangan kunci-nilai (key-value) dengan kunci yang bisa berupa tipe data apa saja (baik numerik maupun string). Dengan demikian, saat menggunakan array, kita hanya bisa mengakses data dengan menggunakan indeks numerik, sedangkan dengan map, kita bisa mengakses data dengan menggunakan kunci yang bisa berupa tipe data apa saja. Selain itu, ukuran array sudah ditentukan pada saat deklarasi, sedangkan ukuran map bisa bertambah atau berkurang sesuai dengan jumlah data yang disimpan di dalamnya.
 
