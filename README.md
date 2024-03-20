@@ -1,3 +1,3 @@
-Nama : Ikram Iriansyah
-NIM : 2311102184
-Kelas : IF-11-E
+Nama : Ikram Iriansyah <br/>
+NIM : 2311102184 <br/>
+Kelas : IF-11-E <br/>
