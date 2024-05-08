@@ -220,7 +220,7 @@ int main() {
 
 ```
 #### Output:
-![Output-Unguided1](https://github.com/IkramIriansyah486/Structure-Data-Assignment/tree/main/Modul%206/Laprak/Output-Unguided1.png)
+![Output-Unguided1](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%206/Laprak/Output-Unguided1.png)
 
 #### Deskripsi program unguided 1
 Dalam program ini menggunakan struktur data stack untuk memeriksa apakah sebuah kata atau kalimat merupakan palindrom atau bukan dengan cara membandingkan setengah huruf di awal dengan setengah huruf di akhir secara terbalik.
@@ -272,7 +272,7 @@ int main()
 
 ```
 #### Output:
-![Output-Unguided2](https://github.com/IkramIriansyah486/Structure-Data-Assignment/tree/main/Modul%206/Laprak/Output-Unguided2.png)
+![Output-Unguided2](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%206/Laprak/Output-Unguided2.png)
 
 #### Deskripsi program unguided 2
 Program diatas ini menggunakan struktur data stack untuk membalik urutan karakter dalam sebuah string dengan cara mendorong setiap karakter kedalam stack, kemudian mengeluarkan karakter-karakter tersebut dari stack dalam urutan terbalik untuk membentuk string hasil pembalikan.
