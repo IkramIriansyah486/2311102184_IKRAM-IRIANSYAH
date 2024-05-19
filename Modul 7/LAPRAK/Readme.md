@@ -506,7 +506,7 @@ int main(){
 ```
 
 #### Hasil Output
-![Output-Unguided2](ttps://github.com/IkramIriansyah486/Structure-Data-Assignment/Modul 7/LAPRAK/Output-Unguided2-Modul7.png)
+![Output-Unguided2]()https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%207/LAPRAK/Output-Unguided2-Modul7.png)
 
  program ini mendemonstrasikan operasi-operasi dasar pada struktur data Antrian (Queue) menggunakan Linked List, seperti enqueue (menambahkan data ke antrian), dequeue (mengeluarkan data dari depan antrian), menghitung jumlah data dalam antrian, dan mengosongkan antrian. Dan menambahkan unsur dari nama mahasiswa dan NIM sebagai inputannya.
 
