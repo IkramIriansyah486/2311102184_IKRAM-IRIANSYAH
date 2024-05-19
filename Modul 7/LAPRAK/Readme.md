@@ -174,7 +174,7 @@ int main(){
 ```
 
 #### Output :
-![Output-guided1-modul7](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%207/LAPRAK/Output-Guided1-Modul7.png
+![Output-guided1-modul7](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%207/LAPRAK/Output-Guided1-Modul7.png)
 
 Program ini merupakan implementasi struktur data Queue (Antrian) menggunakan array statis. Program ini digunakan untuk mengelola antrian pada sebuah teller dengan kapasitas maksimal 5 orang.
 
