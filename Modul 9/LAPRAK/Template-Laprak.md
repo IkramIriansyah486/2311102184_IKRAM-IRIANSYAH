@@ -8,7 +8,7 @@ Graf adalah sekumpulan simpul/vertex/titik/node didalam bidang 2 dimemnsi yang d
 <br>Dengan G menyatakan graph, V menyatakan simpul (vertex), dan E menyatakan sisi (edge)
 <br>Simpul pada graf dapat dinomori dengan huruf seperti a, b, c, d, dst atau bisa dengan bilangan asli 1, 2, 3, dst atau gabungan keduanya. Sedangkan sisi yang menghubungkan simpul a dan b dinyatakan dalam sepasang (a,b) atau dinyatakan dalam lambang e1, e2, e3, dst. Berikut merupakan contoh graf.
 
-![Ikram_Contoh-Graph]()
+![Ikram_Contoh-Graph](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikran_Contoh-Graph.png)
 
 Dalam kehidupan sehari-hari, graph digunakan untuk mencari rute terpendek pada GPS, memodelkan struktur internet dan routing data, perencanaan rute dan jadwal transportasi umum, dll.
 <br>Terdapat beberapa jenis graph, antara lain sebagai berikut[1].
