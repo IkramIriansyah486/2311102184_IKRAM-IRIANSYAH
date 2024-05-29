@@ -38,7 +38,7 @@ Matriks berbobot W untuk graf berbobot G dengan n simpul adalah matriks berukura
 #### 2. Representasi Graph Menggunakan Linked List
 Representasi graph menggunakan linked list adalah metode untuk menyimpan graph yang menghubungkan simpul-simpulnya melalui daftar terhubung, di mana setiap sisi graf memiliki bobot yang terkait. Berikut contoh representasi graph menggunakan linked list.
 
-![Ikram_Representasi-LinkedList]()
+![Ikram_Representasi-LinkedList](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Representasi-LinkedList.png)
 
 ### B. Pohon (Tree)
 Pohon adalah struktur data yang mirip dengan daftar tertaut tetapi alih-alih setiap simpul menunjuk hanya ke simpul berikutnya secara linier, setiap simpul menunjuk ke sejumlah simpul[3]. Pohon adalah contoh struktur data non-linier. Struktur data tree digunakan untuk menyimpan data-data hirarki seperti pohon keluarga, skema pertandingan, struktur organisasi. Terdapat beberapa istilah dalam pohon, antara lain sebagai berikut[4].
