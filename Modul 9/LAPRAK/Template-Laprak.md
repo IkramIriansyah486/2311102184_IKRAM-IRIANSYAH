@@ -26,7 +26,7 @@ Graph tak berarah adalah jenis graph di mana setiap sisi (edge) tidak memiliki a
 #### 3. Graph Berbobot (Weight Graph)
 Graph berbobot adalah jenis graph yang memiliki bobot pada setiap sisinya. Bobot sebuah busur dapat menyatakan panjang sebuah jalan dari 2 buah titik, jumlah rata-rata kendaraan perhari yang melalui sebuah jalan, dll. Berikut contoh graph berbobot. 
 
-![Ikram_Contoh-Graph-Berbobot]()
+![Ikram_Contoh-Graph-Berbobot](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Contoh-Graph-Berbobot.png)
 
 Graph dapat direpresentasikan dalam berbagai bentuk, antara lain matriks ketetanggaan, matrik bersisian, dan senarai ketetanggaan[2].
 
