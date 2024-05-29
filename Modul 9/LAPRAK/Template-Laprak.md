@@ -33,7 +33,7 @@ Graph dapat direpresentasikan dalam berbagai bentuk, antara lain matriks ketetan
 #### 1. Representasi Graph Menggunakan Matriks
 Matriks berbobot W untuk graf berbobot G dengan n simpul adalah matriks berukuran n × n, di mana elemen W[i][j] menyatakan bobot dari sisi yang menghubungkan simpul i ke simpul j. Jika tidak ada sisi yang menghubungkan i dan j, maka W[i][j] biasanya diisi dengan nilai tertentu (seperti ∞ atau 0) untuk menunjukkan tidak adanya koneksi. Berikut contoh representasi graph menggunakan matriks.
 
-![Ikram_Representasi-Matriks]()
+![Ikram_Representasi-Matriks](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Representasi-Matriks.png)
 
 #### 2. Representasi Graph Menggunakan Linked List
 Representasi graph menggunakan linked list adalah metode untuk menyimpan graph yang menghubungkan simpul-simpulnya melalui daftar terhubung, di mana setiap sisi graf memiliki bobot yang terkait. Berikut contoh representasi graph menggunakan linked list.
