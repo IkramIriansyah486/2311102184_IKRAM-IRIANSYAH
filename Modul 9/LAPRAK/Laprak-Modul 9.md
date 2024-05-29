@@ -8,7 +8,7 @@ Graf adalah sekumpulan simpul/vertex/titik/node didalam bidang 2 dimemnsi yang d
 <br>Dengan G menyatakan graph, V menyatakan simpul (vertex), dan E menyatakan sisi (edge)
 <br>Simpul pada graf dapat dinomori dengan huruf seperti a, b, c, d, dst atau bisa dengan bilangan asli 1, 2, 3, dst atau gabungan keduanya. Sedangkan sisi yang menghubungkan simpul a dan b dinyatakan dalam sepasang (a,b) atau dinyatakan dalam lambang e1, e2, e3, dst. Berikut merupakan contoh graf.
 
-![Ikram_Contoh-Graph](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikran_Contoh-Graph.png)
+![Ikram_Contoh-Graph](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Contoh-Graph.png)
 
 Dalam kehidupan sehari-hari, graph digunakan untuk mencari rute terpendek pada GPS, memodelkan struktur internet dan routing data, perencanaan rute dan jadwal transportasi umum, dll.
 <br>Terdapat beberapa jenis graph, antara lain sebagai berikut[1].
@@ -43,7 +43,7 @@ Representasi graph menggunakan linked list adalah metode untuk menyimpan graph y
 ### B. Pohon (Tree)
 Pohon adalah struktur data yang mirip dengan daftar tertaut tetapi alih-alih setiap simpul menunjuk hanya ke simpul berikutnya secara linier, setiap simpul menunjuk ke sejumlah simpul[3]. Pohon adalah contoh struktur data non-linier. Struktur data tree digunakan untuk menyimpan data-data hirarki seperti pohon keluarga, skema pertandingan, struktur organisasi. Terdapat beberapa istilah dalam pohon, antara lain sebagai berikut[4].
 
-![Ikram_Istilah-Tree]()
+![Ikram_Istilah-Tree](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Istilah-Tree.png)
 
 - Root (akar) adalah node dengan hirarki tertinggi.
 - Parent adalah node yang berada satu level di atas node yang ditinjau (parent adalah node yang memiliki child).
@@ -548,7 +548,7 @@ Contoh : int nama_22102003;
 ### 1. Buatlah program graph dengan menggunakan inputan user untuk menghitung jarak dari sebuah kota ke kota lainnya.
 Berikut contoh output program :
 
-![Ikram_Contoh-Output-Unguided1]()
+![Ikram_Contoh-Output-Unguided1](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Contoh-Output-Unguided1.png)
 
 ```C++
 //IKRAM IRIANSYAH
@@ -628,7 +628,7 @@ int main() {
 
 #### Output:
 
-![Ikram_Output-Unguided1]()
+![Ikram_Output-Unguided1](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided1.png)
 
 #### Deskripsi Program
 Kode diatas merupakan program penerapa graph sederhana. Pada awal program terdapat prosedur `TampilGraph_184` yang digunakan untuk menampilkan simpul-simpul (nama-nama kota) beserta busurnya (bobot atau nilai antar simpul). Pada int main() user diminta memasukkan jumlah simpul, kemudian disimpan pada variabel `JumlahSimpul_2311102184`. Kemudian program mendeklarasikan array dinamis bernama `NamaSimpul_2311102184[]` dengan ukuran nilai variabel `JumlahSimpul_2311102184`. Kemudian user diminta menginputkan nama-nama simpul yang kemudian disimpan pada array `NamaSimpul_2311102184[]` menggunakan perulangan. Kemudian program mendeklarasikan array dinamis 2 dimensi bernama `BobotSimpul_184[]` dengan ukuran nilai variabel `JumlahSimpul_2311102184`. Kemudian user diminta memasukkan bobot antar simpul yang kemudian nilainya dimasukkan menggunakan perulangan kedalam array `BobotSimpul_184[]`. Setelah itu program memanggil prosedur `TampilGraph_184` untuk menampilkan simpul-simpul beserta busurnya (bobot) dalam bentuk matriks.
@@ -1195,67 +1195,66 @@ int main(){
 
 Gunakan fungsi BuatNode_184, TambahKanan_184, dan TambahKiri_184 untuk membuat tree seperti gambar berikut.
 
-![Ikram_Tree-Unguided2]()
+![Ikram_Tree-Unguided2](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Tree-Unguided2.png)
 
 ##### Menambahkan Node A (Root)
-![Ikram_Output-Unguided2-1]()
+![Ikram_Output-Unguided2-1](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-1.png)
 
 ##### Menambahkan Node B (Child Kiri Node A)
-![Ikram_Output-Unguided2-2]()
+![Ikram_Output-Unguided2-2](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-2.png)
 
 ##### Menambahkan Node C (Child Kanan Node A)
-![Ikram_Output-Unguided2-3]()
+![Ikram_Output-Unguided2-3](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-3.png)
 
 ##### Menambahkan Node D (Child Kiri Node B)
-![Ikram_Output-Unguided2-4]()
+![Ikram_Output-Unguided2-4](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-4.png)
 
 ##### Menambahkan Node E (Child Kanan Node B)
-![Ikram_Output-Unguided2-5]()
+![Ikram_Output-Unguided2-5](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-5.png)
 
 ##### Menambahkan Node F (Child Kanan Node C)
-![Ikram_Output-Unguided2-6]()
+![Ikram_Output-Unguided2-6](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-6.png)
 
 ##### Menambahkan Node G (Child Kiri Node E)
-![Ikram_Output-Unguided2-7]()
+![Ikram_Output-Unguided2-7](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-7.png)
 
 ##### Menambahkan Node H (Child Kanan Node E)
-![Ikram_Output-Unguided2-8]()
+![Ikram_Output-Unguided2-8](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-8.png)
 
 ##### Update Node F Menjadi M
-![Ikram_Output-Unguided2-9]()
+![Ikram_Output-Unguided2-9](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-9.png)
 
 ##### Retrieve (Tunjuk) Node M
-![Ikram_Output-Unguided2-10]()
+![Ikram_Output-Unguided2-10](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-10.png)
 
 ##### Cari Node E
-![Ikram_Output-Unguided2-11]()
-
+![Ikram_Output-Unguided2-11](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-11.png)
 ##### Tampilkan Child Node B
-![Ikram_Output-Unguided2-12]()
+![Ikram_Output-Unguided2-12](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-12.png)
 
 ##### Tampilkan Descendant Node B
-![Ikram_Output-Unguided2-13]()
+![Ikram_Output-Unguided2-13](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-13.png)
 
 ##### Hapus Subtree Dengan Root Node C
-![Ikram_Output-Unguided2-14]()
+![Ikram_Output-Unguided2-14](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-14.png)
 
 ##### Tampilkan Karakteristik Tree
-![Ikram_Output-Unguided2-15]()
+![Ikram_Output-Unguided2-15](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-15.png)
 
 ##### Tampilkan Traversal Secara PreOrder
-![Ikram_Output-Unguided2-16]()
+![Ikram_Output-Unguided2-16](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-16.png)
 
 ##### Tampilkan Traversal Secara InOrder
-![Ikram_Output-Unguided2-17]()
+![Ikram_Output-Unguided2-17](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-17.png)
 
 ##### Tampilkan Traversal Secara PostOrder
-![Ikram_Output-Unguided2-18]()
+![Ikram_Output-Unguided2-18](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-18.png)
 
 ##### Hapus Tree
-![Ikram_Output-Unguided2-19]()
+![Ikram_Output-Unguided2-19](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-19.png)
 
 ##### Keluar Dari Program
-![Ikram_Output-Unguided2-20]()
+![Ikram_Output-Unguided2-20](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Output-Unguided2-20.png)
 
 #### Deskripsi Program
 Kode diatas merupakan program implementasi tree menggunakan struct. Manipulasi tree pada program ini menggunakan menu-menu yang dapat dipilih oleh user. Setiap pilihan menu akan melakukan aksi yang berbeda beda. Terdapat beberapa fungsi dan prosedur yang dapat digunakan untuk memanipulasi tree, antara lain :
