@@ -21,7 +21,7 @@ Graph berarah adalah jenis graph di mana setiap sisi (edge) memiliki arah terten
 #### 2. Graph Tak Berarah (Undirected Graph)
 Graph tak berarah adalah jenis graph di mana setiap sisi (edge) tidak memiliki arah tertentu. Pada graph tak berarah, urutan simpul dalam sebuah busur tidak dipentingkan. Berikut merupakan contoh graph tak berarah.
 
-![Ikram_Contoh-Graph-TakBerarah]()
+![Ikram_Contoh-Graph-TakBerarah](https://github.com/IkramIriansyah486/Structure-Data-Assignment/blob/main/Modul%209/LAPRAK/Ikram_Contoh-Graph-TakBerarah.png)
 
 #### 3. Graph Berbobot (Weight Graph)
 Graph berbobot adalah jenis graph yang memiliki bobot pada setiap sisinya. Bobot sebuah busur dapat menyatakan panjang sebuah jalan dari 2 buah titik, jumlah rata-rata kendaraan perhari yang melalui sebuah jalan, dll. Berikut contoh graph berbobot. 
